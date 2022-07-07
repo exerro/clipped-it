@@ -44,8 +44,10 @@ bored.
 
 ## Mockups
 
-![](mockups/Clip%20notification.png)
 ![](mockups/Manual%20clips%20settings.png)
+![](mockups/Clip%20notification.png)
+![](mockups/New%20clips%20notification.png)
+![](mockups/Clip%20editor.png)
 
 ## Technical details
 
